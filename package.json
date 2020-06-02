@@ -4,7 +4,7 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.dev.js --open",
+    "start": "serve -s build",
     "build": "webpack --config webpack.prod.js"
   },
   "repository": {
@@ -40,6 +40,7 @@
     "heroku": "^7.41.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
+    "serve": "^11.3.1",
     "tilt.js": "^1.2.1"
   }
 }
