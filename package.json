@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/dandarila/myPortofolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
   "homepage": "https://dandarila.github.io/portofolio",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
